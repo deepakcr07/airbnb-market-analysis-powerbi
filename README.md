@@ -1,7 +1,7 @@
 # Airbnb Market Analysis Dashboard
 
 ## Project Overview
-This project presents an interactive analysis of Airbnb market trends using listing data and dashboard visuals. It focuses on pricing, room types, availability, host activity, and review patterns.
+This project showcases a Power BI dashboard built using the Airbnb NYC dataset to analyze pricing trends, room types, host activity, availability, and customer reviews.
 
 ## Objective
 The goal of this project is to understand Airbnb market behavior and identify useful insights that support better decision-making.
